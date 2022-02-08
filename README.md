@@ -1,27 +1,40 @@
-# Store
+# angular-store
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/angular-store/blob/main/LICENSE)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
 
-## Development server
+# Sobre o projeto
+angular-store é um site desenvolvid em Angular(Single Page Application) no qual é possível acompanhar a criação das páginas em tempo real. No Angular o site foi desenvolvido com componentes e rotas e ligado a API SQL. No projeto  As informações solicitadas(dados de nome de usuário, imagem principal, outras imagens, endereço, descrição e número de telefone) estão associadas a uma loja fictícia de venda de roupas e acessórios. Na API todas as rotas,endpoints foram testados no Postman antes de fazer o update para o serviço de nuvem. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Print da página do site desenvolvido
+<div align="center">
+<img src="https://user-images.githubusercontent.com/60937513/152054363-100b1f6b-2fb1-47bd-ac90-4c3b667e8765.png" width="800" />
+</div>
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Como executar o projeto
 
-## Build
+## Frontend
+-Pré-requisitos: Angular 13 e bibliotecas necessárias.
+-Entrar na pasta store : cd store
+-Porta da servidor Angular http://localhost:4200/
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+# clonar repositório
+git clone https://github.com/lombaAnderson/angular-store
 
-## Running unit tests
+```
+# Autor
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Anderson Lomba de Oliveira
 
-## Running end-to-end tests
+Linkedin
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+https://www.linkedin.com/in/anderson-lomba-140279142/
 
-## Further help
+Portfólio
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://www.lombanderson.epizy.com
+
+# Agradecimentos
+
+Agradeço a Deus principalmente, a minha esposa e a todos que torcem por mim!

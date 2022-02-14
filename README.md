@@ -5,7 +5,7 @@
 # Sobre o projeto
 angular-store é um site desenvolvido em Angular(Single Page Application) no qual é possível acompanhar a criação das páginas em tempo real. No Angular o site foi desenvolvido com componentes e rotas e ligado a API SQL. No projeto  As informações solicitadas(dados de nome de usuário, imagem principal, outras imagens, endereço, descrição e número de telefone) estão associadas a uma loja fictícia de venda de roupas e acessórios. Na API todas as rotas,endpoints foram testados no Postman antes de fazer o update para o serviço de nuvem. 
 
-## Print da página do site desenvolvido
+## Print da página do site em Angular
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/152054363-100b1f6b-2fb1-47bd-ac90-4c3b667e8765.png" width="800" />
 </div>

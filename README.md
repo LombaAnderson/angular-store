@@ -30,6 +30,9 @@ git clone https://github.com/LombaAnderson/angular-store.git
 # Criar projeto no terminal do VS Code ou no de sua preferência
 -npm install -g @angular/cli
 
+# Criação do projeto 
+-ng new store
+
 # executar o projeto no terminal dentro da pasta store
 -ng serve
 

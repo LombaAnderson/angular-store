@@ -19,10 +19,22 @@ angular-store é um site desenvolvido em Angular(Single Page Application) no qua
 -Porta da servidor Angular http://localhost:4200/
 
 ```bash
+Pré-requisitos: Angular, Bootstrap e Jquery
+
 # clonar repositório
 git clone https://github.com/lombaAnderson/angular-store
 
+# clonar repositório
+git clone https://github.com/LombaAnderson/Ecommerce_Angular.git
+
+# Criar projeto no terminal do VS Code ou no de sua preferência
+-npm install -g @angular/cli
+
+# executar o projeto no terminal dentro da pasta store
+-ng serve
+
 ```
+
 # Autor
 
 Anderson Lomba de Oliveira

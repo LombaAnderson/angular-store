@@ -25,7 +25,7 @@ Pré-requisitos: Angular, Bootstrap e Jquery
 git clone https://github.com/lombaAnderson/angular-store
 
 # clonar repositório
-git clone https://github.com/LombaAnderson/Ecommerce_Angular.git
+git clone https://github.com/LombaAnderson/angular-store.git
 
 # Criar projeto no terminal do VS Code ou no de sua preferência
 -npm install -g @angular/cli
